@@ -1,7 +1,7 @@
 export default [
    {
       title: 'Smart Waste App',
-      imgUrl: '/assets/terminal-website.jpg',
+      imgUrl: '/assets/smartwaste.png',
       stack: ['React.js', 'Node.js', 'InfluxDb', 'Vite'],
       //link: 'https://fkcodes.com',
    },
