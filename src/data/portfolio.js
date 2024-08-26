@@ -3,7 +3,7 @@ export default [
       title: 'Smart Waste App',
       imgUrl: '/assets/smartwaste.png',
       stack: ['React.js', 'Node.js', 'InfluxDb', 'Vite'],
-      //link: 'https://fkcodes.com',
+      //link: 'https://map.demo.rodeo-iot.com/',
    },
    {
       title: 'School Managment App',
