@@ -7,7 +7,7 @@ export default [
    },
    {
       title: 'School Managment App',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      imgUrl: '/assets/schoolmanagmentapp.png',
       stack: ['React', 'ASP.NET', 'C#'],
       //link: 'https://thehackershideout.com',
    },
