@@ -1,31 +1,31 @@
 export default [
    {
       year: 'Today',
-      title: 'YouTube Content Creator',
-      duration: '6 years',
+      title: 'Software Developer at Simply Embedded',
+      duration: '8 months',
       details: 
          'My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.',
    },
    {
-		year: 'Today',
-		title: 'Solo Indie Developer',
-		duration: '4 years',
+		year: '2022-2024',
+		title: 'Software Developer at FikiTech Solutions',
+		duration: '2 years',
 		details:
 			"I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
 	},
 	{
-		year: '2019',
-		title: 'Moving the Canda',
+		year: '2023-2025',
+		title: 'Software Development Student at Bow Valley College',
 		duration: '2 years',
 		details:
 			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
 	},
 	{
-		year: '2017',
-		title: "First Line of Code",
-		duration: '5 years',
+		year: '2012-2019',
+		title: "Internatioanl Tarde Spacilest at Ziraat Bank",
+		duration: '7 years',
 		details:
-			'I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.',
+			"I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker.",
 	},
 	{
 		year: '2012',
