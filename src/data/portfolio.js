@@ -12,8 +12,8 @@ export default [
       //link: 'https://thehackershideout.com',
    },
    {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/vite.svg',
+      title: 'IoT Project',
+      imgUrl: '/assets/R.jpg',
       stack: ['Python', 'C++', 'Robotics'],
       //link: 'https://youtu.be/A8eegxL82PI',
    },
