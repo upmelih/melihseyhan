@@ -13,7 +13,7 @@ export default [
    },
    {
       title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
+      imgUrl: '/assets/vite.svg',
       stack: ['Python', 'C++', 'Robotics'],
       //link: 'https://youtu.be/A8eegxL82PI',
    },
