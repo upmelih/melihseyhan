@@ -17,7 +17,7 @@ export default [
 		title: 'Software Development Student at Bow Valley College',
 		duration: '2 years',
 		details:
-			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
+			'Druing my study, I learn a lot of tools and technologies such as HTML, CSS, JS, React, Node.js, C#, ASP.NET, MVC, SQL, MangoDB ...etc and I have build many full-stack application using these tools.',
 	}
 	
 ]
