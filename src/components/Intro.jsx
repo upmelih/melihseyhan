@@ -13,7 +13,7 @@ function Intro() {
 full-stack web developer with a passion for problem-solving, efficiency, and building products. Capable of breaking down and
 solving complex problems under tight deadlines with limited resources. A collaborative, reliable employee ready to join a
 fast-paced team and contribute to company success. 
-please<p>If you want to download my resume,  <a style={{fontStyle:'italic',fontSize:'20px'}} href='/assets/MelihResume.pdf' > Click Here...</a>
+please<p>If you want to download my resume,  <a style={{fontStyle:'italic',fontSize:'20px'}} href='/assets/MELIHSEYHANRESUME.pdf' > Click Here...</a>
       </p>     
          </p>
       </div>
